@@ -11,6 +11,7 @@
     "comma-dangle": "off",
     "require-jsdoc": "off",
     "operator-linebreak": "off",
+    "no-debugger": "off",
     "linebreak-style": 0
     // "no-console": "off",
   },
