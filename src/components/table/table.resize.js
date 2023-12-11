@@ -44,7 +44,6 @@ export function resizeHandler($root, event) {
         height: value + 'px'
       })
     }
-
     $resizer.css({
       opacity: 0,
       bottom: 0,
